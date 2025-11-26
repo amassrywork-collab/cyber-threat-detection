@@ -8,6 +8,7 @@ The model classifies each record as:
 
 The goal of the project is to practice deep learning fundamentals in a realistic cybersecurity setting.
 
+Dataset obtained from [Kaggle: BETH Dataset](https://www.kaggle.com/datasets/katehighnam/beth-dataset
 ---
 
 ## 📌 Features
