@@ -71,4 +71,5 @@ for epoch in range(num_epochs):
 
 # Required output
 val_accuracy = float(val_accuracy)
+
 print("Final Validation Accuracy:", val_accuracy)
